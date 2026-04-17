@@ -53,7 +53,8 @@ Aplicación web para gestionar gastos personales, permitiendo crear un presupues
 
 ## 🌐 Demo
 
-https://proyecto-propinas.netlify.app/
+https://proyecto-control-gastos.netlify.app/
+
 
 ---
 
